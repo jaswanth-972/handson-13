@@ -1,0 +1,26 @@
+Implement the following algorithms:
+
+1. Topological sort
+Question: topologicalSort.png
+Solution: topologicalSort.py
+Topological Sort: ['watch', 'socks', 'shirt', 'tie', 'undershorts', 'pants', 'shoes', 'belt', 'jacket']
+
+2. Depth-First Search
+Question: DFS.png
+Solution: DFS.py
+Depth-First Search from 'u':
+u v y x
+
+
+3. Kruskal algorithm
+Question: kruskalAlgorithm.png
+Solution: kruskalAlgorithm.py
+Kruskal's MST:
+Edge g-h with weight 1
+Edge c-i with weight 2
+Edge f-g with weight 2
+Edge a-b with weight 4
+Edge c-f with weight 4
+Edge c-d with weight 7
+Edge a-h with weight 8
+Edge d-e with weight 9
